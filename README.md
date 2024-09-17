@@ -20,7 +20,7 @@ Below you will find instructions on how to work with GitHub.
 
 6. To send files from your local folder to a remote repository, go to the folder with ".git" foleder and use the commands below
 
-   [link] - that's a link to your git repository. Example: https://github.com/nustmisis/edu_python_nlp_2023
+   [link] - that's a link to your git repository. Example: https://github.com/girafe-ai-edu/practice-1-and-2-elinasafina23
    
    
   ```
